@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+html{
+    background-color: dimgrey;
+}
+
+body{
+    background-color: ##d39bd7;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fbf7fc;
+    width: 1000px;
+    height: 1000px;
+    margin: 10px auto;
+}
+
+header{
+    background-color: #b96abe;
+    height: 100px;
+}
+
+nav{
+    background-color: #a254a5;
+    height: 200px;
+
+}
+
+main{
+    background-color: #6f3870;
+    height: 550px;
+
+}
+
+footer {
+    background-color: #874388;
+    height: 350px;
+
+}
+
+
