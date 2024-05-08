@@ -6,9 +6,12 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
     text-align: center;
+    transition: width 0.5s, height 0.5s, background-color 0.5s;
 
 }
 
 .micuadro:hover{
     background-color:hotpink ;
+    width: 400px;
+    height: 400px;
 }
