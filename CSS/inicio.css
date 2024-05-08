@@ -32,10 +32,52 @@ nav{
 main{
     background-color: #6f3870;
     height: 550px;
+    margin: 0 auto;
 
 }
 
+
+
+article{
+    width: 300px;
+    background-color: #3a183a;
+    padding: 1cm;
+    margin: 0 auto;
+    height: 300px;
+    text-align: center;
+    display:inline-block;
+}
+
+img{
+    width: 90%;
+    margin: 0 auto;
+    border: 3px dashed #dd58dd;
+}
+
+h2{
+    margin-top: 5px;
+    color: white;
+    margin-bottom: 5px;
+    padding: 3px;
+
+}
+
+.uno{
+    float: left;
+}
+
+.dos{
+    float: left;
+}
+
+.clear{
+    both
+}
+
+
+
 footer {
+    clear: both;
     background-color: #874388;
     height: 350px;
 
