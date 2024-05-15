@@ -1,0 +1,22 @@
+.click{
+    background-color: rgb(169, 163, 252);
+    color: rgb(239, 255, 9);
+}
+.click:hover{
+    color: rgb(0, 128, 100);
+}
+
+.google{
+    background-color: black;
+    color: rgb(0, 225, 255);
+}
+.google:active{
+    color: rgb(255, 0, 242);
+}
+
+.texto{
+    background-color: rgb(146, 9, 236);
+}
+.texto:focus{
+    background-color: rgb(47, 193, 10);
+}
